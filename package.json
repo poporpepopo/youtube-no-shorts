@@ -1,0 +1,10 @@
+{
+  "name": "youtube-no-shorts",
+  "version": "1.0.0",
+  "description": "YouTubeのショートを再生させず、UIからも消すChrome拡張（MV3）",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
